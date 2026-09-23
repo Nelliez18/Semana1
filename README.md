@@ -1,4 +1,4 @@
-# Semana1
+# Calculadora de troco
 valor_compra = float(input())
 
 valor_pago = float(input())
