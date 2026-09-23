@@ -1,1 +1,8 @@
 # Semana1
+print(f"Média: {media:.2f}")
+valor_compra = float(input())
+valor_pago = float(input())
+
+troco = valor_pago - valor_compra
+
+print(f"Troco: R$ {troco:.2f}")
