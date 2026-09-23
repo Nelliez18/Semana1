@@ -1,5 +1,4 @@
 # Semana1
-print(f"Média: {media:.2f}")
 valor_compra = float(input())
 valor_pago = float(input())
 
